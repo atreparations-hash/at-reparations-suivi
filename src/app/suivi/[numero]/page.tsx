@@ -96,7 +96,7 @@ export default function SuiviPage() {
       <div className="flex items-center justify-between mb-8">
         <Link href="/" className="flex items-center gap-3">
           <div className="relative w-12 h-12 rounded-full overflow-hidden border border-lime-500/40">
-            <Image src="/DDC92220-FBEF-4A89-A443-B2DE2321F1C1.png" alt="AT Réparations" fill className="object-cover" />
+            <Image src="https://raw.githubusercontent.com/atreparations-hash/at-reparations-suivi/main/DDC92220-FBEF-4A89-A443-B2DE2321F1C1.png" alt="AT Réparations" fill className="object-cover" />
           </div>
           <div>
             <p className="font-semibold text-sm">
