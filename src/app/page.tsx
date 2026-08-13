@@ -30,7 +30,7 @@ export default function HomePage() {
         <div className="flex justify-center mb-8">
           <div className="relative w-48 h-48 rounded-full overflow-hidden border-2 border-lime-500/40 shadow-lg shadow-lime-500/10">
             <Image
-              src="/logo-at.png"
+              src="/DDC92220-FBEF-4A89-A443-B2DE2321F1C1.png"
               alt="AT Réparations"
               fill
               className="object-cover"
